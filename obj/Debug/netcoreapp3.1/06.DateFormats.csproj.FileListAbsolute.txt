@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\bin\Debug\netcoreapp3.1\06.DateFormats.exe
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\bin\Debug\netcoreapp3.1\06.DateFormats.deps.json
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\bin\Debug\netcoreapp3.1\06.DateFormats.runtimeconfig.json
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\bin\Debug\netcoreapp3.1\06.DateFormats.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\bin\Debug\netcoreapp3.1\06.DateFormats.dll
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\bin\Debug\netcoreapp3.1\06.DateFormats.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\obj\Debug\netcoreapp3.1\06.DateFormats.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\obj\Debug\netcoreapp3.1\06.DateFormats.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\obj\Debug\netcoreapp3.1\06.DateFormats.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\obj\Debug\netcoreapp3.1\06.DateFormats.dll
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\obj\Debug\netcoreapp3.1\06.DateFormats.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\06.DateFormats\obj\Debug\netcoreapp3.1\06.DateFormats.genruntimeconfig.cache
